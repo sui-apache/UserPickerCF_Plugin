@@ -10,12 +10,12 @@
     <version>1.0-SNAPSHOT</version>
 
     <organization>
-        <name>Example Company</name>
-        <url>http://www.example.com/</url>
+        <name>Aperture Science</name>
+        <url>https://www.aperturescience.com/a/b/c/d/g/h/abcdgh/</url>
     </organization>
 
-    <name>aperture-user-picker</name>
-    <description>This is the com.aperture.plugins.jira:aperture-user-picker plugin for Atlassian JIRA.</description>
+    <name>jira-cf-user-picker</name>
+    <description>Plugin which add configurable user picker field.</description>
     <packaging>atlassian-plugin</packaging>
 
     <dependencies>
