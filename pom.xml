@@ -11,11 +11,11 @@
 
     <organization>
         <name>Aperture Science</name>
-        <url>https://www.aperturescience.com/a/b/c/d/g/h/abcdgh/</url>
+        <url>http://www.example.com/</url>
     </organization>
 
-    <name>jira-cf-user-picker</name>
-    <description>Plugin which add configurable user picker field.</description>
+    <name>aperture-user-picker</name>
+    <description>Demo User Picker.</description>
     <packaging>atlassian-plugin</packaging>
 
     <dependencies>
